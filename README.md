@@ -21,17 +21,17 @@ A Next.js application that lets you download complete website source code (HTML,
    cd website-source-downloader
 
 2. **Install dependencies**
-    npm install
+    ```npm install
     # or
     yarn install
 
 3. **Run the development server**
-    npm run dev
+    ```npm run dev
     # or
     yarn dev
 
 4. **Open in browser**
-    http://localhost:3000
+    ```http://localhost:3000
 
 ## 🖥️ Usage
 
