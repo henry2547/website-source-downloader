@@ -16,22 +16,25 @@ A Next.js application that lets you download complete website source code (HTML,
 ## 🚀 Quick Start
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/henry2547/website-source-downloader.git
    cd website-source-downloader
 
 2. **Install dependencies**
-    ```npm install
+    ```
+    npm install
     # or
     yarn install
 
 3. **Run the development server**
-    ```npm run dev
+    ```
+    npm run dev
     # or
     yarn dev
 
 4. **Open in browser**
-    ```http://localhost:3000
+    ```
+    http://localhost:3000
 
 ## 🖥️ Usage
 
